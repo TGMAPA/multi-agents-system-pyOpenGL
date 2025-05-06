@@ -1,0 +1,51 @@
+== Exec: 0
+Namespace(N_Ejecucion=0, lifters=5, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x000001FBB198F2E0>)
+
+== Exec: 1
+Namespace(N_Ejecucion=1, lifters=7, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x0000027AD0ADF2E0>)
+
+== Exec: 2
+Namespace(N_Ejecucion=2, lifters=9, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x00000228985BF2E0>)
+
+== Exec: 3
+Namespace(N_Ejecucion=3, lifters=10, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x000002106DCFF2E0>)
+
+== Exec: 4
+Namespace(N_Ejecucion=4, lifters=11, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x000001E0513CF2E0>)
+
+== Exec: 5
+Namespace(N_Ejecucion=5, lifters=13, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x0000028862CEF2E0>)
+
+== Exec: 6
+Namespace(N_Ejecucion=6, lifters=15, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x000001C126BBF2E0>)
+
+== Exec: 7
+Namespace(N_Ejecucion=7, lifters=17, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x000002262321F2E0>)
+
+== Exec: 8
+Namespace(N_Ejecucion=8, lifters=19, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x00000198CE9DF2E0>)
+
+== Exec: 9
+Namespace(N_Ejecucion=9, lifters=21, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x0000024845C3F2E0>)
+
+== Exec: 10
+Namespace(N_Ejecucion=10, lifters=23, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x0000025A7F83F2E0>)
+
+== Exec: 11
+Namespace(N_Ejecucion=11, lifters=25, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x0000016B3B9BF2E0>)
+
+== Exec: 12
+Namespace(N_Ejecucion=12, lifters=27, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x000002542C1BF2E0>)
+
+== Exec: 13
+Namespace(N_Ejecucion=13, lifters=29, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x0000018DC029F2E0>)
+
+== Exec: 14
+Namespace(N_Ejecucion=14, lifters=31, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x000001F2FF03F2E0>)
+
+== Exec: 15
+Namespace(N_Ejecucion=15, lifters=33, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x0000014C963BF2E0>)
+
+== Exec: 16
+Namespace(N_Ejecucion=16, lifters=35, Basuras=10, TrailerPos=[250.0, 300.0], DescargaPos=[-300.0, -250.0], Vel_lifter=1.0, dist_min=50.0, Out_arch_path='out.csv', Config_Out_arch_path='config_out.txt', Delta=0.05, theta=0, radious=30, func=<function Simulacion at 0x00000183C424F2E0>)
+
